@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12228" started-at="2019-12-20T12:15:17Z" finished-at="2019-12-20T12:15:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12228" started-at="2019-12-20T12:15:17Z" finished-at="2019-12-20T12:15:29Z">
+      <class name="TestCases.HomePageTestCase">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:TestCases.HomePageTestCase@5e5792a0]" name="launchBrowser" is-config="true" duration-ms="53623" started-at="2019-12-20T12:14:23Z" finished-at="2019-12-20T12:15:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="choose_Product_FromHome()[pri:0, instance:TestCases.HomePageTestCase@5e5792a0]" name="choose_Product_FromHome" duration-ms="12176" started-at="2019-12-20T12:15:17Z" finished-at="2019-12-20T12:15:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- choose_Product_FromHome -->
+      </class> <!-- TestCases.HomePageTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
